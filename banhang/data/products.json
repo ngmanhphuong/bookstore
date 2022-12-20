@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "name": "Mắt biếc",
+    "description": "Truyện dài",
+    "price": 110000,
+    "image": "https://upload.wikimedia.org/wikipedia/vi/9/92/Mat_Biec.gif",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Út Quyên và tôi",
+    "description": "Tập truyện",
+    "price": 72250,
+    "image": "https://www.nxbtre.com.vn/Images/Book/copy_21_NXBTreStoryFull_04112014_021101.jpg",
+    "category_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Trước vòng chung kết",
+    "description": "Truyện dài",
+    "price": 102000,
+    "image": "https://quang.name.vn/wp-content/uploads/2020/05/truoc-vong-chung-ket.jpg",
+    "category_id": 1
+  }, {
+    "id": 4,
+    "name": "Nữ sinh",
+    "description": "Truyện dài",
+    "price": 72250,
+    "image": "https://isach.info/images/story/cover/nu_sinh__nguyen_nhat_anh.jpg",
+    "category_id": 2
+  }, {
+    "id": 5,
+    "name": "Thằng quỷ nhỏ",
+    "description": "Truyện dài",
+    "price": 93500,
+    "image": "https://nhungcuonsachhay.com/wp-content/uploads/2021/05/Thang-quy-nho-Nguyen-Nhat-Anh.jpg",
+    "category_id": 1
+  }, {
+    "id": 6,
+    "name": "Chú bé rắc rối",
+    "description": "Truyện dài",
+    "price": 70300,
+    "image": "http://isach.info/images/story/cover/chu_be_rac_roi__nguyen_nhat_anh.jpg",
+    "category_id": 2
+  }, {
+    "id": 6,
+    "name": "Kính vạn hoa 2",
+    "description": "Tập truyện",
+    "price": 880000,
+    "image": "https://salt.tikicdn.com/media/catalog/product/k/v/kvh_18tap_2.jpg",
+    "category_id": 2
+  }, {
+    "id": 6,
+    "name": "Kính vạn hoa 6",
+    "description": "Tập truyện",
+    "price": 76500,
+    "image": "https://salt.tikicdn.com/media/catalog/product/k/v/kvh_18tap_6.jpg",
+    "category_id": 2
+  }
+]
